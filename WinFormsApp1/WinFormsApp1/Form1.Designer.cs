@@ -103,9 +103,9 @@ namespace WinFormsApp1
             this.lTelefono.AutoSize = true;
             this.lTelefono.Location = new System.Drawing.Point(636, 28);
             this.lTelefono.Name = "lTelefono";
-            this.lTelefono.Size = new System.Drawing.Size(53, 15);
+            this.lTelefono.Size = new System.Drawing.Size(37, 15);
             this.lTelefono.TabIndex = 7;
-            this.lTelefono.Text = "Telefono";
+            this.lTelefono.Text = "Movil";
             // 
             // lListaSocios
             // 

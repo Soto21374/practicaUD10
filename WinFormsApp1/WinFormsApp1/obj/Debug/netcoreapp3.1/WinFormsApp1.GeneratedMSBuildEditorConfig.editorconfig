@@ -1,3 +1,9 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = WinFormsApp1
-build_property.ProjectDir = C:\Users\alumno\source\repos\Soto21374\practicaUD10\WinFormsApp1\WinFormsApp1\
+build_property.ProjectDir = C:\Users\Usuario\source\repos\Soto21374\practicaUD10\WinFormsApp1\WinFormsApp1\
